@@ -1,5 +1,5 @@
 先上图片：
-![效果](http://img.blog.csdn.net/20150505173326732)
+![效果](https://github.com/01100044093/StateView/blob/master/8.gif)
 
 用法：
 首先在主页面初始化下列信息
